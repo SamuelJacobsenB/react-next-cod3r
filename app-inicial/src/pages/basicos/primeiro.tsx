@@ -6,6 +6,7 @@ const PrimeiraPagina = () => {
       <Primeiro />
       <Primeiro />
       <Primeiro />
+      <h1>Aprendendo com vídeo</h1>
     </div>
   );
 };
